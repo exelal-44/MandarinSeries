@@ -3,7 +3,7 @@ https://lunbo.freetv.top/huya/26355790#http://rihou.cc:555/huya.php?id=26355790
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电视剧频道",笑傲江湖[Swordsman]
 https://lunbo.freetv.top/huya/26355790#http://rihou.cc:555/huyadphp?id=26355790
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视剧频道",神雕侠侣 [Legend Of Condor Heroes]
-11352964http://103.193.151.146/huya.php?id=23865171  /11352964
+http://103.193.151.146/huya.php?id=23865171  /11352964
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/天龙八部.png" group-title="电视剧频道",天龙八部 [Pendekar-Pendekar Negeri Tayli ]
 23903123
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视剧频道",倚天屠龙记 [Golok Pembunuh Naga]
